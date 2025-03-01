@@ -1,0 +1,7 @@
+C:\Users\Mobile\Documents\facul\5_semestre\Udemy\C#\Sistema_de_Cadastro2\Sistema_de_Cadastro2\bin\Debug\Sistema_de_Cadastro2.exe.config
+C:\Users\Mobile\Documents\facul\5_semestre\Udemy\C#\Sistema_de_Cadastro2\Sistema_de_Cadastro2\bin\Debug\Sistema_de_Cadastro2.exe
+C:\Users\Mobile\Documents\facul\5_semestre\Udemy\C#\Sistema_de_Cadastro2\Sistema_de_Cadastro2\bin\Debug\Sistema_de_Cadastro2.pdb
+C:\Users\Mobile\Documents\facul\5_semestre\Udemy\C#\Sistema_de_Cadastro2\Sistema_de_Cadastro2\obj\Debug\Sistema_de_Cadastro2.csproj.AssemblyReference.cache
+C:\Users\Mobile\Documents\facul\5_semestre\Udemy\C#\Sistema_de_Cadastro2\Sistema_de_Cadastro2\obj\Debug\Sistema_de_Cadastro2.csproj.CoreCompileInputs.cache
+C:\Users\Mobile\Documents\facul\5_semestre\Udemy\C#\Sistema_de_Cadastro2\Sistema_de_Cadastro2\obj\Debug\Sistema_de_Cadastro2.exe
+C:\Users\Mobile\Documents\facul\5_semestre\Udemy\C#\Sistema_de_Cadastro2\Sistema_de_Cadastro2\obj\Debug\Sistema_de_Cadastro2.pdb

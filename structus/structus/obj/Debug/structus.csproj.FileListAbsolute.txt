@@ -1,0 +1,7 @@
+C:\Users\Mobile\Documents\facul\5_semestre\Udemy\C#\structus\structus\bin\Debug\structus.exe.config
+C:\Users\Mobile\Documents\facul\5_semestre\Udemy\C#\structus\structus\bin\Debug\structus.exe
+C:\Users\Mobile\Documents\facul\5_semestre\Udemy\C#\structus\structus\bin\Debug\structus.pdb
+C:\Users\Mobile\Documents\facul\5_semestre\Udemy\C#\structus\structus\obj\Debug\structus.csproj.AssemblyReference.cache
+C:\Users\Mobile\Documents\facul\5_semestre\Udemy\C#\structus\structus\obj\Debug\structus.csproj.CoreCompileInputs.cache
+C:\Users\Mobile\Documents\facul\5_semestre\Udemy\C#\structus\structus\obj\Debug\structus.exe
+C:\Users\Mobile\Documents\facul\5_semestre\Udemy\C#\structus\structus\obj\Debug\structus.pdb

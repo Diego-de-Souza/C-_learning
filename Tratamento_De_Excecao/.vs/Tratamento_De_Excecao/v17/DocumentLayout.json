@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mobile\\Documents\\facul\\5_semestre\\Udemy\\C#\\Tratamento_De_Excecao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A04DD271-2966-4469-BD57-F77E7C73559E}|Tratamento_De_Excecao\\Tratamento_De_Excecao.csproj|c:\\users\\mobile\\documents\\facul\\5_semestre\\udemy\\c#\\tratamento_de_excecao\\tratamento_de_excecao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A04DD271-2966-4469-BD57-F77E7C73559E}|Tratamento_De_Excecao\\Tratamento_De_Excecao.csproj|solutionrelative:tratamento_de_excecao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mobile\\Documents\\facul\\5_semestre\\Udemy\\C#\\Tratamento_De_Excecao\\Tratamento_De_Excecao\\Program.cs",
+              "RelativeDocumentMoniker": "Tratamento_De_Excecao\\Program.cs",
+              "ToolTip": "C:\\Users\\Mobile\\Documents\\facul\\5_semestre\\Udemy\\C#\\Tratamento_De_Excecao\\Tratamento_De_Excecao\\Program.cs",
+              "RelativeToolTip": "Tratamento_De_Excecao\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAMwBoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T19:27:38.852Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
